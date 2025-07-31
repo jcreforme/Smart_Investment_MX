@@ -1,4 +1,5 @@
 # 📊 Smart Investment MX
+<img width="283" height="170" alt="image" src="https://github.com/user-attachments/assets/0f1c2762-a941-496f-b0ff-6f69a088226c" />
 
 An app for monitoring investment portfolios in Mexico, including assets such as FIBRAs, ETFs, and other dividend-paying instruments. It generates alerts via Telegram and allows you to simulate financial scenarios using PER and dividend yield.
 
