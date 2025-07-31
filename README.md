@@ -3,6 +3,13 @@
 
 An app for monitoring investment portfolios in Mexico, including assets such as FIBRAs, ETFs, and other dividend-paying instruments. It generates alerts via Telegram and allows you to simulate financial scenarios using PER and dividend yield.
 
+<img width="292" height="266" alt="image" src="https://github.com/user-attachments/assets/9eeb1dfb-518a-4c56-80aa-3455f4f4589b" />
+
+<img width="297" height="245" alt="image" src="https://github.com/user-attachments/assets/f555010a-99c8-4271-b6a6-71d55f902026" />
+
+<img width="260" height="242" alt="image" src="https://github.com/user-attachments/assets/8a070579-8578-4c45-bb3b-d691a4e79c29" />
+
+
 ---
 
 ## 🧱 Tecnologías
